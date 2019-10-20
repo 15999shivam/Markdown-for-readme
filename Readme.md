@@ -51,9 +51,9 @@ ___
 <!-- Links -->
 ___
 ### <p align="center">Links</p>
-[Portfolio](shivamgarg.co)
+[Portfolio](https://shivamgarg.co/index.html)
 
-[Portfolio](shivamgarg.co "My Portfolio")  
+[Portfolio](https://shivamgarg.co/index.html "My Portfolio")  
 
 
 <!-- UL(unordered list) -->
