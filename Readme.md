@@ -85,8 +85,6 @@ ___
 
 ___
 ## <p align="center">Github Markdown</p>
-
-
 <!-- Code Blocks -->
 ___
 ### <p align="center">Code Blocks</p>
