@@ -1,7 +1,7 @@
 <!-- Headings -->
 
 ---
-#### <center>Headings</center>
+### <p align="center">Headings</p>
 
 
 # Heading 1
@@ -19,14 +19,14 @@
 
 <!-- Italics -->
 ___
-#### <center>Italics</center>
+### <p align="center">Italics</p>
 *This text* is Italic
 
 _This text_ is Italic
 
 <!-- Strong -->
 ___
-#### <center>Strong</center>
+### <p align="center">Strong</p>
 **This text** is Italic
 
 __This text__ is Italic
@@ -34,23 +34,23 @@ __This text__ is Italic
 
 <!-- Strikethrough -->
 ___
-#### <center>Strikethrough</center>
+### <p align="center">Strikethrough</p>
 ~~this text~~ is strikethrough
 
 <!-- Horizontal Rule -->
 ___
-#### <center>Horizontal Rule</center>
+### <p align="center">Horizontal Rule</p>
 ---
 ___
 
 <!-- Blockquote -->
 ___
-#### <center>Blockquote</center>
+### <p align="center">Blockquote</p>
 >this is a quote
 
 <!-- Links -->
 ___
-#### <center>Links</center>
+### <p align="center">Links</p>
 [Portfolio](shivamgarg.co)
 
 [Portfolio](shivamgarg.co "My Portfolio")  
@@ -58,7 +58,7 @@ ___
 
 <!-- UL(unordered list) -->
 ___
-#### <center>Unordered List</center>
+### <p align="center">Unordered List</p>
 * Item 1
 * item 2
     * nested item 1
@@ -66,30 +66,30 @@ ___
 
 <!-- Ordered List -->
 ___
-#### <center>Ordered List</center>
+### <p align="center">Ordered List</p>
 1. item 1
 1. item 2
 1. item 3
 
 <!-- Inline code block -->
 ___
-#### <center>Inline Code Block</center>
-`<p> This is a paragraph </p>`
+### <p align="center">Inline Code Block</p>
+`<p align="center"> This is a paragraph </p>`
 
 <!-- Images -->
 ___
-#### <center>Images</center>
+### <p align="center">Images</p>
 ![MarkDown Logo](https://markdown-here.com/img/icon256.png)
 
 <!-- GitHub Markdown -->
 
 ___
-## <center>Github Markdown</center>
+## <p align="center">Github Markdown</p>
 
 
 <!-- Code Blocks -->
 ___
-#### <center>Code Blocks</center>
+### <p align="center">Code Blocks</p>
 ```bash
 npm init -y
 
@@ -110,7 +110,7 @@ def add(num1,num2):
 
 <!-- Tables -->
 ___
-#### <center>Tables</center>
+### <p align="center">Tables</p>
 |Name|Email|
 |-|-|
 |Shivam|Shivamgarg260@gmail.com|
@@ -118,13 +118,13 @@ ___
 
 <!-- Task List -->
 ___
-#### <center>Task List</center>
+### <p align="center">Task List</p>
 * [x] completed
 * [ ] not completed
 
 <!-- markdown to html converter -->
 ___
-#### <center>MD to HTML</center>
+### <p align="center">MD to HTML</p>
 ### Markdown to HTML
 >[Markdown to HTML converter](https://markdowntohtml.com)
 ---
